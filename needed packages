@@ -1,0 +1,6 @@
+SpeechRecognition - to recognize user's speech
+pyttsx3 - to convert text to speech
+datetime - to get the date and time 
+SequenceMatcher from difflib 
+Sequence Matcher - for the calcualting the speech accuracy
+Difflib - to compare the sequences
